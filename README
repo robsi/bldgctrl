@@ -1,0 +1,13 @@
+
+project:
+--------
+
+bldgctrl
+
+
+purpose:
+--------
+
+control any type of lightswitch, sensor(light, humidity, reed-contact, glass-break, etc.) , plug, engine, ... based on a RS485 bus protocol
+
+this project will contain eagle-pcb, VHDL and c files including some documentation ;)
